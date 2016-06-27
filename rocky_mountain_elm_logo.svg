@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="450px" height="450px" viewBox="0 0 450 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Square Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Square-Logo" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2" stroke="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="450" height="450"></rect>
+            <g id="elm_logo" transform="translate(11.000000, 96.000000)" sketch:type="MSShapeGroup">
+                <g id="Shapes">
+                    <g id="Group">
+                        <path d="M-7.82694456,117.658555 L62.5470554,188.033555 L215.519055,188.033555 L145.144055,117.658555 L-7.82694456,117.658555 Z" id="Shape" fill="#7FD13B" transform="translate(103.846055, 152.846055) rotate(-45.000000) translate(-103.846055, -152.846055) "></path>
+                        <path d="M287.491069,173.490569 L287.491069,29.7665686 L143.766069,29.7665686 L287.491069,173.490569 Z" id="Shape" fill="#60B5CC" transform="translate(215.628569, 101.628569) rotate(-45.000000) translate(-215.628569, -101.628569) "></path>
+                        <path d="M222.134762,90.9775667 L291.999762,21.1115667 L152.268762,21.1115667 L222.134762,90.9775667 Z" id="Shape" fill="#F0AD00" transform="translate(222.134262, 56.044567) rotate(-180.000000) translate(-222.134262, -56.044567) "></path>
+                        <rect id="Rectangle-path" fill="#7FD13B" transform="translate(172.311293, 111.311293) rotate(-315.000000) translate(-172.311293, -111.311293) " x="118.473809" y="57.2283113" width="107.674967" height="108.165963"></rect>
+                        <path d="M204.78,56 L52,208.781 L357.561,208.781 L204.78,56 Z" id="Shape" fill="#60B5CC"></path>
+                        <path d="M67.8885,174.8875 L135.6645,242.6645 L135.6645,107.1115 L67.8885,174.8875 Z" id="Shape" fill="#F0AD00" transform="translate(101.776500, 174.888000) rotate(-270.000000) translate(-101.776500, -174.888000) "></path>
+                        <path d="M348.1725,132.3895 L195.3915,-20.3915 L195.3915,285.1725 L348.1725,132.3895 Z" id="Shape" fill="#5A6378" transform="translate(271.782000, 132.390500) rotate(-90.000000) translate(-271.782000, -132.390500) "></path>
+                    </g>
+                </g>
+                <g id="Lines" transform="translate(0.000000, 19.000000)" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square">
+                    <path d="M0,185 L170,16" id="Line"></path>
+                    <path d="M223,1 L263,41" id="Line"></path>
+                    <path d="M193,29 L222,0" id="Line"></path>
+                    <path d="M174,15 L199,40" id="Line"></path>
+                    <path d="M0,189 L427,189" id="Line"></path>
+                    <path d="M102,122 L32,191" id="Line"></path>
+                    <path d="M103,123 L141,161" id="Line"></path>
+                    <path d="M205.5,35.5 L237.5,67.5" id="Line"></path>
+                    <path d="M204,37 L113,129" id="Line"></path>
+                    <path d="M270,36 L107.5,199.5" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
